@@ -1,0 +1,15 @@
+<package>
+  <description brief="RosDispatcher">
+
+     RosDispatcher
+
+  </description>
+  <author>Sam Shteinman</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/RosDispatcher</url>
+  <depend package="roscpp"/>
+
+</package>
+
+
